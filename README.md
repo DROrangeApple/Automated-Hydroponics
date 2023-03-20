@@ -55,12 +55,3 @@ Usage
     Connect your mobile device to the NodeMCU's Wi-Fi network.
     Open the app on your mobile device.
     Control the hydroponics system components by pressing the buttons in the app.
-
-Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-I hope this README file meets your expectations. If you have any further questions or need clarification, please feel free to ask.
