@@ -55,3 +55,7 @@ Usage
     Connect your mobile device to the NodeMCU's Wi-Fi network.
     Open the app on your mobile device.
     Control the hydroponics system components by pressing the buttons in the app.
+    
+    
+More info can be found here:
+https://apps.appshed.com/buildithydro/
