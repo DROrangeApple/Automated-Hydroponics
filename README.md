@@ -56,7 +56,7 @@ IF YOU ARE MAKING YOUR OWN APP
 - Use the provided JavaScript code to call functions in the NodeMCU code. For example:
 
 ```javascript
-app.device.callFunction("SetWaterPumpPWM", { "parameters": 0 });
+app.device.callFunction("SetWaterPumpPWM", { "parameters": 0 }); //Sets water pump Pin PWM to 0 (off) (1023 is max)
 ```
 
 - Publish the app
