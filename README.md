@@ -45,7 +45,7 @@ Assemble the control circuit using the following components:
 
 IF YOU ARE USING EXISTING CONTROL APP
 
-- Open http://apps.appshed.com/buildithydrocontrol on a WIFI enabled device (make sure its HTTP not HTTPS and AVOID chrome (firefox works great))
+- Open http://apps.appshed.com/bhydrocontrol/ on a WIFI enabled device (make sure its HTTP not HTTPS and AVOID chrome (firefox works great))
 - Once webapp has fully loaded go to WIFI settings of device and find SSID BuildItHydro with password buildithydro
 - Cog in corner should go green, device can now be controlled via app (App is still very much in development so dont expect too much from it)
 
